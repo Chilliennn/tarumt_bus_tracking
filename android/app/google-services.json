@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498637212523",
+    "project_id": "tarumt-bus",
+    "storage_bucket": "tarumt-bus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498637212523:android:1e604583da625746135a2e",
+        "android_client_info": {
+          "package_name": "com.example.tarumt_bus_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc-fEknNyHO1dfHFZX6TGPeUZdMeNp5XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
